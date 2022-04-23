@@ -110,4 +110,6 @@
     <string name="smart_charging_footer">Pengisian Daya Cerdas memungkinkan Anda menyetel tingkat pengisian daya maksimum untuk memperpanjang masa pakai baterai</string>
     <string name="custom_seekbar_default_value">Secara default</string>
     <string name="custom_seekbar_default_value_is_set">Nilai default disetel</string>
+    <string name="ignore_window_secure_title">Abaikan tanda keamanan jendela</string>
+    <string name="ignore_window_secure_summary">Ini menghapus batas tangkapan layar dan rekaman layar untuk semua aplikasi. Biasanya, aplikasi khusus diganti dengan area hitam dalam catatan. Ini bisa nyaman dalam beberapa kasus tetapi dapat menyebabkan kebocoran privasi. Setelah mengubah sakelar ini, Anda mungkin perlu memulai ulang aplikasi agar perubahan diterapkan</string>
 </resources>
